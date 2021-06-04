@@ -5,7 +5,7 @@
 
   spring:
     datasource:
-      password: 5401
+      password: Palm1050
       url: jdbc:postgresql://localhost:5432/registration
       username: postgres
     jpa:
